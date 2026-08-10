@@ -1,1 +1,1 @@
-# odin-recipes
+ini adalah website mengenai resep-resep makanan indonesia yang enak
